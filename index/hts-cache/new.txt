@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+09:36:38	6954/6954	---MCZ	404	error ('Not%20Found')	text/html	etag:W/%225e32-5T2FmBoB4+QcQqq0Oev0zPcuMx8%22	http://ogserconsac.pagedemo.co/robots.txt		(from )
+09:36:38	38383/38383	---MCZ	200	added ('OK')	text/html	etag:W/%2295ef-HTXKClOKrdtdmgZWcY8IvRaj6FE%22	http://ogserconsac.pagedemo.co/	E:/DiscoE_Dany/Descargas/WEB/index/ogserconsac.pagedemo.co/index.html	(from )
