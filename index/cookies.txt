@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-ogserconsac.pagedemo.co	TRUE	/	FALSE	1999999999	instapage-variant-430148	A
-ogserconsac.pagedemo.co	TRUE	/	FALSE	1999999999	instapage-variant-11677396	A
-
